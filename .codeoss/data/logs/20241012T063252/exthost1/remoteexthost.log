@@ -1,0 +1,441 @@
+2024-10-12 06:33:48.767 [info] Extension host with pid 1220 started
+2024-10-12 06:33:48.798 [info] Lock '/home/student_02_0f01c21f28a8/.codeoss/data/User/workspaceStorage/3f9d10cd/vscode.lock': Lock acquired.
+2024-10-12 06:33:50.826 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-10-12 06:33:51.828 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-10-12 06:33:52.204 [error] No bundle location found for extension vscode.emmet
+2024-10-12 06:33:52.289 [error] No bundle location found for extension vscode.git-base
+2024-10-12 06:33:52.294 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-10-12 06:33:52.295 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-10-12 06:33:52.680 [error] No bundle location found for extension vscode.git
+2024-10-12 06:33:52.781 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2024-10-12 06:33:52.784 [warning] Using default string since no string found in i18n bundle that has the key: Validating found git in: "{0}"
+2024-10-12 06:33:52.812 [error] No bundle location found for extension vscode.github
+2024-10-12 06:33:52.861 [warning] Using default string since no string found in i18n bundle that has the key: Log level: {0}
+2024-10-12 06:33:52.885 [warning] Using default string since no string found in i18n bundle that has the key: Enables the following features: {0}
+2024-10-12 06:33:52.885 [warning] Using default string since no string found in i18n bundle that has the key: Using git "{0}" from "{1}"
+2024-10-12 06:33:52.902 [warning] Using default string since no string found in i18n bundle that has the key: Git History
+2024-10-12 06:33:52.907 [warning] Using default string since no string found in i18n bundle that has the key: Copy vscode.dev Link
+2024-10-12 06:33:52.908 [info] Eager extensions activated
+2024-10-12 06:33:52.908 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 06:33:52.909 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 06:33:52.910 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 06:33:52.910 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 06:33:52.911 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-10-12 06:33:53.380 [error] No bundle location found for extension EditorConfig.EditorConfig
+2024-10-12 06:33:53.505 [error] No bundle location found for extension google.cloud-shell
+2024-10-12 06:33:53.548 [error] No bundle location found for extension googlecloudtools.cloudcode
+2024-10-12 06:33:56.016 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-12 06:33:56.017 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-10-12 06:33:56.018 [error] No bundle location found for extension vscode.debug-auto-launch
+2024-10-12 06:33:56.018 [error] No bundle location found for extension vscode.merge-conflict
+2024-10-12 06:33:56.022 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-10-12 06:33:56.022 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Always
+2024-10-12 06:33:56.022 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Smart
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: With Flag
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Disabled
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Always
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Smart
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Only With Flag
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach is disabled and not shown in status bar
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach to every Node.js process launched in the terminal
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Auto attach when running scripts that aren't in a node_modules folder
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Only auto attach when the `--inspect` flag is given
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach in this workspace
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Toggle auto attach on this machine
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Temporarily disable auto attach in this session
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Re-enable auto attach
+2024-10-12 06:33:56.023 [warning] Using default string since no string found in i18n bundle that has the key: Auto Attach: Disabled
+2024-10-12 06:33:56.059 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-10-12 06:33:56.059 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-10-12 06:33:56.916 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-10-12 06:33:56.922 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-10-12 06:33:57.293 [error] No bundle location found for extension vscode.typescript-language-features
+2024-10-12 06:33:57.294 [error] No bundle location found for extension vscode.json-language-features
+2024-10-12 06:33:57.421 [warning] Using default string since no string found in i18n bundle that has the key: Learn more about managing TypeScript versions
+2024-10-12 06:33:57.555 [warning] Using default string since no string found in i18n bundle that has the key: Configure
+2024-10-12 06:33:57.556 [warning] Using default string since no string found in i18n bundle that has the key: JSON Language Server
+2024-10-12 06:33:57.741 [warning] Using default string since no string found in i18n bundle that has the key: JSON: Schema Resolution Error
+2024-10-12 06:33:58.044 [warning] Using default string since no string found in i18n bundle that has the key: Unable to resolve schema. Click to retry.
+2024-10-12 06:33:58.045 [warning] Using default string since no string found in i18n bundle that has the key: JSON Validation Status
+2024-10-12 06:33:58.046 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:36:18.150 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:36:18.175 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:36:18.175 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:36:18.175 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:37:16.416 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:37:16.663 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:37:16.664 [info] ExtensionService#_doActivateExtension redhat.java, startup: false, activationEvent: 'onLanguage:java'
+2024-10-12 06:37:16.664 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onLanguage:java'
+2024-10-12 06:37:16.665 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-dependency, startup: false, activationEvent: 'onLanguage:java'
+2024-10-12 06:37:16.685 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:37:16.685 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:37:16.685 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:37:18.110 [error] No bundle location found for extension vscjava.vscode-java-debug
+2024-10-12 06:37:18.219 [error] No bundle location found for extension redhat.java
+2024-10-12 06:37:18.219 [error] No bundle location found for extension vscjava.vscode-java-dependency
+2024-10-12 06:37:19.090 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2024-10-12 06:37:19.156 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-test, startup: false, activationEvent: 'onLanguage:java'
+2024-10-12 06:37:19.538 [warning] [redhat.java] Accessing a resource scoped configuration without providing a resource is not expected. To get the effective value for '[java]', provide the URI of a resource or 'null' for any resource.
+2024-10-12 06:37:19.594 [error] No bundle location found for extension vscjava.vscode-java-test
+2024-10-12 06:38:46.076 [error] [redhat.java] provider FAILED
+2024-10-12 06:38:46.113 [error] Error: The request (id: 31, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:38:52.510 [error] [redhat.java] provider FAILED
+2024-10-12 06:38:52.511 [error] Error: The request (id: 33, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:38:53.159 [error] [redhat.java] provider FAILED
+2024-10-12 06:38:53.160 [error] Error: The request (id: 35, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:39:16.909 [error] [redhat.java] provider FAILED
+2024-10-12 06:39:16.912 [error] Error: The request (id: 61, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:41:41.747 [error] [redhat.java] provider FAILED
+2024-10-12 06:41:41.748 [error] Error: The request (id: 76, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:41:42.615 [error] [redhat.java] provider FAILED
+2024-10-12 06:41:42.616 [error] Error: The request (id: 78, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:41:51.585 [error] [redhat.java] provider FAILED
+2024-10-12 06:41:51.586 [error] Error: Internal error.
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:41:51.639 [error] [redhat.java] provider FAILED
+2024-10-12 06:41:51.640 [error] Error: Internal error.
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:41:55.546 [error] [redhat.java] provider FAILED
+2024-10-12 06:41:55.547 [error] Error: The request (id: 118, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:41:57.342 [error] [redhat.java] provider FAILED
+2024-10-12 06:41:57.343 [error] Error: The request (id: 122, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:41:59.090 [error] [redhat.java] provider FAILED
+2024-10-12 06:41:59.091 [error] Error: Internal error.
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:42:04.042 [error] [redhat.java] provider FAILED
+2024-10-12 06:42:04.043 [error] Error: The request (id: 143, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:42:19.258 [error] [redhat.java] provider FAILED
+2024-10-12 06:42:19.258 [error] Error: The request (id: 157, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:42:22.984 [error] [redhat.java] provider FAILED
+2024-10-12 06:42:22.984 [error] Error: The request (id: 171, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:42:48.550 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:42:48.555 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:42:48.586 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:42:48.587 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:42:48.587 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:43:02.815 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:43:02.818 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:43:02.850 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:43:02.850 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:43:02.850 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:43:43.960 [error] [redhat.java] provider FAILED
+2024-10-12 06:43:43.965 [error] Error: The request (id: 231, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:45:20.713 [error] [redhat.java] provider FAILED
+2024-10-12 06:45:20.714 [error] Error: The request (id: 239, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:45:52.222 [error] [redhat.java] provider FAILED
+2024-10-12 06:45:52.224 [error] Error: The request (id: 265, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:45:56.177 [error] [redhat.java] provider FAILED
+2024-10-12 06:45:56.177 [error] Error: The request (id: 273, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:46:11.378 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:46:11.609 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:46:11.634 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:46:11.634 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:46:11.635 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:46:14.009 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:46:14.012 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:46:14.045 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:46:14.046 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:46:14.046 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:46:15.977 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:46:15.980 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:46:16.018 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:46:16.019 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:46:16.019 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:46:27.914 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:46:27.917 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:46:27.994 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:46:27.996 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:46:27.997 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:46:33.145 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:46:33.147 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:46:33.177 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:46:33.177 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:46:33.177 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:46:43.764 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:46:43.766 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:46:43.808 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:46:43.808 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:46:43.809 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:48:48.215 [error] [redhat.java] provider FAILED
+2024-10-12 06:48:48.216 [error] Error: The request (id: 348, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:48:48.738 [error] [redhat.java] provider FAILED
+2024-10-12 06:48:48.738 [error] Error: The request (id: 352, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:48:54.095 [error] [redhat.java] provider FAILED
+2024-10-12 06:48:54.096 [error] Error: Internal error.
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:48:59.150 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:49:04.752 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:49:04.777 [warning] Using default string since no string found in i18n bundle that has the key: Schema Validated
+2024-10-12 06:49:04.777 [warning] Using default string since no string found in i18n bundle that has the key: JSON schema configured
+2024-10-12 06:49:04.778 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:49:19.714 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-10-12 06:49:19.715 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-10-12 06:50:04.697 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-10-12 06:50:04.698 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-10-12 06:50:07.536 [warning] Using default string since no string found in i18n bundle that has the key: (Current Change)
+2024-10-12 06:50:07.536 [warning] Using default string since no string found in i18n bundle that has the key: (Incoming Change)
+2024-10-12 06:50:07.717 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:50:07.724 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:50:07.765 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:50:07.773 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:50:07.773 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:50:08.223 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:08.224 [error] Error: The request (id: 375, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:08.238 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:08.239 [error] Error: The request (id: 376, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:08.630 [error] Error: The request (id: 384, method: 'workspace/executeCommand') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2024-10-12 06:50:08.630 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:08.631 [error] Error: The request (id: 387, method: 'textDocument/documentSymbol') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:08.631 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:08.632 [error] Error: The request (id: 388, method: 'textDocument/documentSymbol') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.058 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.058 [error] Error: The request (id: 403, method: 'textDocument/documentSymbol') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.219 [error] Error: The request (id: 400, method: 'workspace/executeCommand') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21) java.execute.workspaceCommand {"value":"redhat.java","_lower":"redhat.java"}
+2024-10-12 06:50:10.236 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.237 [error] Error: The request (id: 402, method: 'textDocument/documentSymbol') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.286 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.295 [error] Error: The request (id: 418, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.297 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.301 [error] Error: The request (id: 419, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.303 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.308 [error] Error: The request (id: 420, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.311 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.312 [error] Error: The request (id: 421, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.313 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.324 [error] Error: The request (id: 422, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.327 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.328 [error] Error: The request (id: 423, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:10.362 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:10.363 [error] Error: The request (id: 429, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:50:41.091 [error] [redhat.java] provider FAILED
+2024-10-12 06:50:41.091 [error] Error: The request (id: 483, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:51:53.250 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:51:53.253 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:51:53.277 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:51:53.277 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:51:53.277 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:52:29.634 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:52:29.637 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:52:29.710 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:52:29.710 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:52:29.710 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:52:35.413 [error] [redhat.java] provider FAILED
+2024-10-12 06:52:35.414 [error] Error: The request (id: 543, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 06:58:52.776 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:58:52.956 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:58:52.976 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:58:52.976 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:58:52.976 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 06:59:47.536 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 06:59:47.730 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 06:59:47.735 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 06:59:47.735 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 06:59:47.735 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 07:00:42.301 [error] [redhat.java] provider FAILED
+2024-10-12 07:00:42.302 [error] Error: The request (id: 628, method: 'textDocument/documentSymbol') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 07:00:44.871 [error] [redhat.java] provider FAILED
+2024-10-12 07:00:44.873 [error] Error: The request (id: 644, method: 'textDocument/hover') has been cancelled
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106325
+    at ie (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1106619)
+    at /google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101403
+    at Immediate.<anonymous> (/google/devshell/editor/code-oss-for-cloud-shell/extensions/redhat.java/dist/extension.js:2:1101423)
+    at processImmediate (node:internal/timers:476:21)
+2024-10-12 07:01:14.019 [warning] Using default string since no string found in i18n bundle that has the key: Unable to compute used schemas: No document
+2024-10-12 07:01:14.154 [warning] Using default string since no string found in i18n bundle that has the key: Loading JSON info
+2024-10-12 07:01:14.158 [warning] Using default string since no string found in i18n bundle that has the key: No Schema Validation
+2024-10-12 07:01:14.158 [warning] Using default string since no string found in i18n bundle that has the key: no JSON schema configured
+2024-10-12 07:01:14.158 [warning] Using default string since no string found in i18n bundle that has the key: Show Schemas
+2024-10-12 07:04:57.363 [info] Extension host terminating: received terminate message from renderer
+2024-10-12 07:04:57.364 [info] Lock '/home/student_02_0f01c21f28a8/.codeoss/data/User/workspaceStorage/3f9d10cd/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2024-10-12 07:04:57.439 [info] Extension host with pid 1220 exiting with code 0
